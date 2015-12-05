@@ -1,1 +1,29 @@
-TO DO
+*future-cop.txt* Vim plugin for Ruby gem FutureCop
+
+Author:    Steven Yap
+URL:       https://github.com/futureworkz/vim-future-cop
+Version:   0.1
+Copyright: Copyright (c) 2015 Futureworkz
+License:   MIT
+
+INTRODUCTION                               *futurecop* *futurecop-introduction*
+
+Vim plugin to run the gem future_cop on current file and display the results
+in quickfix window
+
+CONFIGURATION                                         *futurecop-configuration*
+
+There are no configuration options at the moment.
+
+Pull requests at http://www.github.com/futureworkz/vim-future-cop are welcome!
+
+COMMANDS                                              *futurecop-commands*
+
+:FutureCop                                            *:FutureCop*
+Command to run FutureCop on current file and output it to quickfix
+
+LICENSE                                               *rails-license*
+Copyright (c) Futureworkz. 
+See |license|.
+
+ vim:tw=78:ts=8:ft=help:norl:
