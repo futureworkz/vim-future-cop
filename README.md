@@ -20,7 +20,8 @@ All output is then funnelled to your quickfix.
 5. Create a new Pull Request
 
 ## License
-Vim Future Cop is Copyright © 2015 Futureworkz Pte Ltd. It is free software, and may be redistributed under the terms specified in the MIT-LICENSE file.
+Vim Future Cop is Copyright © 2015 Futureworkz Pte Ltd.  
+It is free software, and may be redistributed under the terms specified in the MIT-LICENSE file.
 
 ## About Futureworkz
 <a href='http://www.futureworkz.com' title='Futureworkz - Ruby on Rails development' target='_blank'><img src='https://s3-ap-southeast-1.amazonaws.com/futureworkz/3rd-party/logo.png' alt='Futureworkz - Ruby on Rails development' width=230 height=50/></a>
